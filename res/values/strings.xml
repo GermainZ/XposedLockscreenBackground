@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2013 Peter Gregus for GravityBox Project (C3C076@xda)
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Xposed Lockscreen Background </string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>
+
+    <!-- About -->
+    <string name="pref_cat_about_title">About</string>
+    <string name="about_xlb_summary">This module is entirely based on GravityBox. Modified by GermainZ. Touch to visit official thread.</string>
+    <string name="about_gb_title">GravityBox</string>
+    <string name="about_gb_summary">Coded by C3C076@XDA. Touch to visit official thread.</string>
+    <string name="about_xposed_title">Xposed framework</string>
+    <string name="about_xposed_summary">Coded by rovo89@XDA. Touch to visit official thread.</string>
+    <string name="about_donate_title">Donate</string>
+    <string name="about_donate_summary">Touch to support GravityBox development by donating via PayPal</string>
+
+    <!--  Lockscreen tweaks -->
+    <string name="pref_cat_lockscreen_title">Lockscreen Background</string>
+    <string name="pref_cat_lockscreen_summary">Customize your lockscreen\'s background</string>
+    <string name="pref_cat_lockscreen_background_title">Lockscreen background</string>
+    <string name="pref_lockscreen_background_title">Background style</string>
+    <string name="lockscreen_bg_default">Default wallpaper</string>
+    <string name="lockscreen_bg_color">Color fill</string>
+    <string name="lockscreen_bg_image">Custom image</string>
+    <string name="pref_lockscreen_bg_color_title">Set custom color</string>
+    <string name="pref_lockscreen_bg_color_summary">Allows to set custom background color for lockscreen</string>
+    <string name="pref_lockscreen_bg_image_title">Set custom image</string>
+    <string name="pref_lockscreen_bg_image_summary">Allows to set custom background image for lockscreen</string>
+    <string name="lockscreen_background_result_successful">Background changed</string>
+    <string name="lockscreen_background_result_not_successful">Background not changed</string>
+
+    <!-- Option for GB dark theme -->
+    <string name="pref_gb_theme_dark_title">Use Holo Dark theme</string>
+    <string name="pref_gb_theme_dark_summary">Switches the UI to use Holo Dark theme instead of Holo Light</string>
+
+</resources>
